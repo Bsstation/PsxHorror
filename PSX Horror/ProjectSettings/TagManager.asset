@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Item
+  - MapCam
+  - Interactible
+  - SpawnPos
+  - Water
+  - Wood
+  - Sand
+  - Dirt
+  - Glass
+  - Creak Wood
+  - Metal
+  - Scene
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Item
+  - Map
+  - Examine
+  - Ragdolls
+  - Floor
+  - Post Process
+  - CinemachineCollider
+  - Shell
+  - EnemyTarget
+  - EnemyPhy
+  - EnemyHit
+  - Props
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Map
+    uniqueID: 667876473
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map Icons
+    uniqueID: 2337220139
+    locked: 0
